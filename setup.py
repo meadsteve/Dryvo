@@ -39,6 +39,7 @@ setup(
         "Flask-WeasyPrint==0.6",
         "WeasyPrint==47",
         "googlemaps==3.0.2",
+        "Werkzeug==0.16.1",
     ],
     tests_require=test_req,
     setup_requires=["pytest-runner==4.2"],
